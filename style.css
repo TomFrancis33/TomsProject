@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    font-family: 'Frutiger';
+    font-size: 22px;
+}
+
+h1 {
+    padding-top: 30px;
+    padding-right: 150px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.titleContainer{
+    background-color: #005EB8;
+    height: 88px;
+    width: 100%;
+    box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.2);
+}
+
+.imgNHS {
+    width: 150px;
+    float: left;
+}
+
+.dropdownContainer {
+    text-align: center;
+}
+
+.show-container {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.show {
+    text-align: left;
+    background-color: #CCE3F5;
+    padding: 5px;
+}
+
+.medicineName-container {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.medicineName {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/*attribution*/
+.attribute-container {
+    position: fixed;
+    bottom: 10px; 
+    top: 93%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -250px;
+}
